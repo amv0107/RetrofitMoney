@@ -5,5 +5,13 @@
 ## Task
 * При выборе валюты показать историю по ней
 
+## Used Technologies
+Project is created with:
+* Kotlin
+* ViewModel
+* LiveData
+* Navigation
+* Retrofit
+
 ## Screen
 ![screen](/Screen/screen1.png)
